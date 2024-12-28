@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+
+# VSCode settings
+.vscode/
+
+# Python compiled files
+__pycache__/
+*.pyc
